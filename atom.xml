@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/RileyWen/</id>
+    <title>RileyW&apos;s Blog</title>
+    <updated>2020-11-03T04:38:14.239Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/RileyWen/"/>
+    <link rel="self" href="https://github.com/RileyWen/atom.xml"/>
+    <logo>https://github.com/RileyWen/images/avatar.png</logo>
+    <icon>https://github.com/RileyWen/favicon.ico</icon>
+    <rights>All rights reserved 2020, RileyW&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[NVM下写入原子性的保持]]></title>
+        <id>https://github.com/RileyWen/post/nvm-xia-xie-ru-yuan-zi-xing-de-bao-chi/</id>
+        <link href="https://github.com/RileyWen/post/nvm-xia-xie-ru-yuan-zi-xing-de-bao-chi/">
+        </link>
+        <updated>2020-11-03T04:33:06.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="主要问题">主要问题</h2>
+<p>NVM提供的原子写入粒度很小，且受操作系统cache的影响，持久化顺序不一致。</p>
+]]></content>
+    </entry>
+</feed>
